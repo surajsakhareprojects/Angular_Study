@@ -1,18 +1,17 @@
 # Angular_Study
 
-Angular Study Step By Step
+Step By Step
 
-Module 0: Pre-Understanding of TypeScript and Ecma 
-
- A. What is TypeScript?
- B. Benefits of TypeScript  
- C. What is Ecma Script?
- D. Benefits of Ecma Script
+ Module 0: Pre-Understanding of TypeScript and Ecma 
+  A. What is TypeScript?
+  B. Benefits of TypeScript  
+  C. What is Ecma Script?
+  D. Benefits of Ecma Script
  
  Module 1: Introduction 
- A. What is Angular? 
- B. Angular (vs) Angular2 (vs) Angular4  
- C. Setup for local environment 
+  A. What is Angular? 
+  B. Angular (vs) Angular2 (vs) Angular4  
+  C. Setup for local environment 
  
  Module 2: Directives 
   A. Structural directives (Built-in Directives (ngIF, ngFor, ngSwitch)  
@@ -76,4 +75,5 @@ Module 0: Pre-Understanding of TypeScript and Ecma
   E. Run the application 
  
  Module 10: We will create a project which will have login, registration, Dashboard, and Crud Operation for Employee Details. 
+ 
  
