@@ -3,6 +3,7 @@
 Angular Study Step By Step
 
 Module 0: Pre-Understanding of TypeScript and Ecma 
+
  A. What is TypeScript?
  B. Benefits of TypeScript  
  C. What is Ecma Script?
